@@ -1,5 +1,5 @@
 ###  👋
-
+[![HitCount](http://hits.dwyl.com/navneetkash/navneetkash.svg)](http://hits.dwyl.com/navneetkash/navneetkash)
 <!--
 **navneetkash/navneetkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
