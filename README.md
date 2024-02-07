@@ -4,7 +4,7 @@
 
 Gist about me :-
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Appian
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Data science and Cyber security
 - 💬 Ask me about .........???????
