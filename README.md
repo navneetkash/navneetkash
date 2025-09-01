@@ -1,6 +1,4 @@
 ###  👋
-[![HitCount](http://hits.dwyl.com/navneetkash/navneetkash.svg)](http://hits.dwyl.com/navneetkash/navneetkash)
-
 
 Gist about me :-
 
