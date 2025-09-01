@@ -4,10 +4,7 @@
 
 Gist about me :-
 
-- 🔭 I’m currently working on Appian
+- 🔭 I’m currently working on FastAPI, Appian
 - 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on Data science and Cyber security
 - 💬 Ask me about .........???????
 - 📫 How to reach me: twitter : @Navneet_1406 && instagram : kashyap__navneet
-- 😄 Pronouns: Its Data not DAAAAATAAAAAA
-- ⚡ Fun fact: keep it till you ... I am from Uchiha clan
